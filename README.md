@@ -38,5 +38,3 @@ Sneaker-Store/
 
 
 ---
-
-*Made with ❤️ and a passion for sneakers.*
